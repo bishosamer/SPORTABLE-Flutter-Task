@@ -1,9 +1,9 @@
 added a json file to the server for data persistence 
 
 to use clone the repo and start the server 
-``` cd api``
-``` npm install ```
-``` npm start```
+` cd api`
+` npm install `
+`npm start`
 
 then move the the flutter folder and run the project
 
